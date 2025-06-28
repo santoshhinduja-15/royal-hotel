@@ -23,17 +23,17 @@ Royal Hotel is a responsive full-stack web application for hotel room booking an
 4. Import the sql files kept in the sql folder into the database  
 5. Open your browser and go to :- http://localhost/royal-hotel/  
 ## Screenshots
-- home-page.png
+- home-page
   ![image](https://github.com/user-attachments/assets/9fff06aa-8ad2-41b7-b67c-84b8b4802b5a)
   
-- `room-listing.png`
-- `booking-page.png`
-- `auth-page.png`
-- `user-dashboard.png`
-- `admin-dashboard.png`
+- room-listing.png
+  ![image](https://github.com/user-attachments/assets/9137a5bd-f956-4d8f-8c17-515bea32e1d6)
+  
+- booking-page.png
+  ![image](https://github.com/user-attachments/assets/1f497be8-f764-4b63-b242-6fc659a091cd)
 
-Example:
+- user-dashboard.png
+  ![image](https://github.com/user-attachments/assets/ae259024-39c2-4680-8b85-0eff5a3d72ba)
 
-```markdown
-### 🏠 Home Page  
-![Home Page](screenshots/home-page.png)
+- admin-dashboard.png
+  ![image](https://github.com/user-attachments/assets/5036ebed-b845-4725-b3e3-80574e4cf83a)
