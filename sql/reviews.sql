@@ -1,0 +1,8 @@
+CREATE TABLE reviews (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    full_name VARCHAR(255) NOT NULL,
+    room_type VARCHAR(50) NOT NULL,
+    review TEXT NOT NULL,
+    rating INT NOT NULL,
+    submitted_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
